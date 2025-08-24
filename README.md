@@ -10,6 +10,8 @@ Styling: Tailwind CSS
 
 Animations: Framer Motion
 
+Node.js
+
 Features
 
 Simulates common phishing techniques in a safe, educational environment
